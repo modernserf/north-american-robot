@@ -1,0 +1,19 @@
+* {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  position: relative; }
+
+li {
+  list-style: none; }
+
+.search-container {
+  overflow: hidden; }
+
+.search-result {
+  width: 500px;
+  height: 500px;
+  margin: 5px;
+  float: left; }
+  .search-result img {
+    max-width: 100%;
+    height: auto; }

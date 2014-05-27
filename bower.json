@@ -1,0 +1,22 @@
+{
+  "name": "mood-music",
+  "version": "0.0.0",
+  "authors": [
+    "Justin Falcone <justin@justinfalcone.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "jquery": "~2.1.1",
+    "angular-mocks": "~1.2.16",
+    "angular-sanitize": "~1.2.16"
+  }
+}
